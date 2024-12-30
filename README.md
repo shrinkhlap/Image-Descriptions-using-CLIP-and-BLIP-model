@@ -9,18 +9,18 @@ Together, they offer a complete solution for applications requiring both image c
 
 *Key Features*
 
-1. Versatile Image Input Support
+1. Versatile Image Input Support:-
 Accepts both local image files and online image URLs, making it ideal for diverse use cases.
-2. Caption Generation
+2. Caption Generation:-
 Uses the BLIP model to generate natural, contextually accurate descriptions of input images.
 Captions are detailed and human-like, providing meaningful insights into the visual content.
-3. Similarity Scoring
+3. Similarity Scoring:-
 Employs the CLIP model to compute a cosine similarity score between image features and generated text.
 The score indicates how well the description aligns with the visual content.
-4. Easy Dataset Integration
+4. Easy Dataset Integration:-
 Includes preprocessing logic for integrating and processing datasets using Hugging Face's datasets library.
 Supports batch processing for efficient handling of large datasets.
-5. Custom CLIP Model Wrapper
+5. Custom CLIP Model Wrapper:-
 Implements a PyTorch-based wrapper for CLIP, offering flexibility for further customization or fine-tuning.
 
 *Caption Generation Process*
