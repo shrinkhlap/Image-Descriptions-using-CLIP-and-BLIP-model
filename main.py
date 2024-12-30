@@ -91,3 +91,11 @@ image_path="/content/drive/MyDrive/Colab Notebooks/beautiful-bouquet-with-differ
 description, score = get_description_and_score(image_path)
 print("Generated Caption:-", description)
 print("Similarity Score:-", score)
+
+
+
+
+# Author: Shrinkhla
+# Copyright (C) [2024]
+# All rights reserved.
+
