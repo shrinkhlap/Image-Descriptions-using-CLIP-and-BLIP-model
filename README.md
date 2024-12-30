@@ -1,4 +1,4 @@
-# Custom-CLIP-BLIP-Model
+# Image Descriptions with CLIP and BLIP Model
 This project showcases an innovative integration of OpenAI's CLIP and Salesforce's BLIP models to create a robust framework for image understanding. The model is capable of generating descriptive captions for images and evaluating the semantic similarity between visual content and textual descriptions.
 
 The combination of CLIP and BLIP leverages the strengths of both models:
