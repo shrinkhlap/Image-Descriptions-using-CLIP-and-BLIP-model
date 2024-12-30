@@ -7,7 +7,7 @@ BLIP excels at generating meaningful and context-aware captions for images.
 CLIP specializes in understanding the relationship between visual and textual data, providing a similarity score that quantifies how well the generated caption matches the image.
 Together, they offer a complete solution for applications requiring both image captioning and content analysis.
 
-Key Features
+*Key Features*
 
 1. Versatile Image Input Support
 Accepts both local image files and online image URLs, making it ideal for diverse use cases.
@@ -23,12 +23,13 @@ Supports batch processing for efficient handling of large datasets.
 5. Custom CLIP Model Wrapper
 Implements a PyTorch-based wrapper for CLIP, offering flexibility for further customization or fine-tuning.
 
-Caption Generation Process
+*Caption Generation Process*
 
 An image is passed to the BLIP model, which generates a textual description.
 The description provides a meaningful summary of the image content.
 
-Similarity Scoring Process
+*Similarity Scoring Process*
+
 The image is processed by the CLIP model to extract image features.
 The caption text is processed by the CLIP model to extract text features.
 A cosine similarity score is computed, reflecting how well the text describes the image.
