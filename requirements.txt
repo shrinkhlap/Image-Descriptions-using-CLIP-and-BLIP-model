@@ -1,0 +1,6 @@
+requests
+datasets
+torch
+torchvision
+transformers
+Pillow
