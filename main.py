@@ -95,7 +95,7 @@ print("Similarity Score:-", score)
 
 
 
-# Author: Shrinkhla
+# Author: Shrinkhla Pandey
 # Copyright (C) [2024]
 # All rights reserved.
 
